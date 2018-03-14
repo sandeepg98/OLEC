@@ -1,0 +1,81 @@
+body {
+	font-family: Arial, Helvetica, sans-serif; background-color:#000033;
+}
+div#whole { background-color:#FFFFFF; width:1020px;; height:780px; margin:auto;  border-radius:10px 10px 10px 10px;}
+
+  div#hEa__d,
+  div#me__nu,
+  div#bo__dy, 
+  div#FO__OTer { width:1020px; margin:auto; margin-top:2px;}
+  div#FO__OTer { font-size:12px;  position:relative; top:30px; padding:0;}
+  div#FO__OTer p { position:relative; top:30px;}
+div#hEa__d { height:185px; border-radius:10px 10px 0px 0px;}
+div#me__nu {height:21px; background-color:#FFFFFF}
+div#bo__dy {height:450px; /* box-shadow:0px 0px 5px #000; background-image:url('bodyBack.png')*/}
+div#bo__dy div { height:100%; float:left;}
+div#bo__dy div#bo__dy_p1 { width:32%;}
+div#bo__dy div#bo__dy_p2 { width:29%;}
+div#bo__dy div#bo__dy_pub { width:35%;}
+.legend {padding:5px; text-align:justify; font-size:15px; position:relative; float: left;}
+fieldset {width:84%; height:39%;box-shadow:0px 0px 3px #000; float:left; margin-left:17px; margin-top:9px;border:4px solid #000033; border-radius:10px 10px 10px 10px;}
+fieldset:hover {transform: scale(1.03,1.03);
+ -ms-transform: scale(1.03,1.03); /* IE 9/10 */
+ -webkit-transform: scale(1.03,1.03); /* Safari and Chrome */
+ -o-transform: scale(1.03,1.03); /* Opera */
+ -moz-transform: scale(1.03,1.03); /* Firefox */ }
+legend  {text-align:justify;  padding:0px 15px 0px 15px; border:2px solid #000033; border-radius:10px 10px 10px 10px; background-color:#000033; color:#FFFFFF}
+div#bo__dy  form #votercard { position:relative; left:20px; width: 230px;}
+div#bo__dy  form #userName { position:relative; top:10px;position:relative;}
+div#bo__dy  form #password {position:relative;}
+div#bo__dy  form #GOBtn {border-radius:10px 10px 10px 10px;font-size:22px;background-color:#000033; float: right;margin-top:10px; cursor:auto;width: 50px;height:30px; color:#FFFFFF}
+div#bo__dy  form #GOBtn:hover  {transform: scale(1.03,1.03);
+ -ms-transform: scale(1.03,1.03); /* IE 9/10 */
+ -webkit-transform: scale(1.03,1.03); /* Safari and Chrome */
+ -o-transform: scale(1.03,1.03); /* Opera */
+ -moz-transform: scale(1.03,1.03); /* Firefox */ }
+ div#bo__dy  form #GOBtN {border-radius:10px 10px 10px 10px;font-size:22px;background-color:#000033; float: right;margin-top:10px; cursor:auto;width: 400px;height:40px; color:#FFFFFF}
+div#bo__dy  form #GOBtN:hover  {transform: scale(1.03,1.03);
+ -ms-transform: scale(1.03,1.03); /* IE 9/10 */
+ -webkit-transform: scale(1.03,1.03); /* Safari and Chrome */
+ -o-transform: scale(1.03,1.03); /* Opera */
+ -moz-transform: scale(1.03,1.03); /* Firefox */ }
+div#bo__dy  form #GOBTn {border-radius:10px 10px 10px 10px;font-size:22px;background-color:#000033; float: left;margin-top:10px; cursor:auto;width: 100px;height:30px; color:#FFFFFF}
+div#bo__dy  form #GOBTn:hover  {transform: scale(1.03,1.03);
+ -ms-transform: scale(1.03,1.03); /* IE 9/10 */
+ -webkit-transform: scale(1.03,1.03); /* Safari and Chrome */
+ -o-transform: scale(1.03,1.03); /* Opera */
+ -moz-transform: scale(1.03,1.03); /* Firefox */ }
+div#bo__dy  form #SaveBTN { background-position: -140px -73px; cursor:auto;width: 50px;}  
+div#bo__dy  form #SaveBTN:hover { background-position: -142px -110px; cursor:auto;width: 50px;}
+div#bo__dy  form #canselBTN {background-position: -205px -73px; cursor:auto;width: 50px;}
+div#bo__dy  form #canselBTN:hover {background-position: -207px -110px; cursor:auto;width: 50px;}
+div#bo__dy fieldset { box-shadow:0px 1px 2px #fff;}
+div#bo__dy div#bo__dy_conts { width:63%; margin-left:10px; position:relative; top:40px;}
+div#bo__dy div#bo__dy_conts div { margin-left:4px; width:100%;}
+div#bo__dy div#bo__dy_conts div#HEa__DER{ height:10%;}
+div#bo__dy div#bo__dy_conts div#PiC__cont{ height:65%; overflow:hidden;}
+div#bo__dy div#bo__dy_conts div#PiC__cont .imageslider{ width:100%; height:100%;display:block; margin:0; padding:0;}
+div#bo__dy div#bo__dy_conts div#PiC__cont .slides{ width:630px ;height:100% ;float:left; list-style:none;}
+div#bo__dy div#bo__dy_conts div#CO__nt{ height:20%;}
+div#bo__dy div#bo__dy_conts h2,div#bo__dy div#bo__dy_conts p  {
+	margin:0;
+	text-align:center; 
+	color:#FFFFFF;
+	  background-image:url('p_back.png');
+	 
+}
+div#bo__dy div#bo__dy_conts p.page2, div#bo__dy div#bo__dy_conts p.page2 ol li { color: #666666; background:none;}
+div#bo__dy div#bo__dy_conts h2 {padding:15px; position:relative; z-index:12;  box-shadow:0px 0px 5px #000;}
+div#bo__dy div#bo__dy_conts p {padding:10px; text-align:justify; background-position:center; position:relative; z-index:13;}
+div#bo__dy div#bo__dy_conts img {border:5px solid #fff; width:97%; position:relative; left:5px; z-index:10; box-shadow:0px 0px 10px #000;}
+
+div#FO__OTer { border-radius:0px 0px 10px 10px; position:relative;}
+  div#lo__go, 
+  div#ba__nner, 
+  div#oth__er { float:left; height:100%; margin-left:1px;}
+    div#lo__go {width:19%;}
+div#ba__nner {width:80%;}
+div#menu { margin-left:12%;}
+div#menu ul{ box-shadow:0px 0px 3px #000;}
+div#menu ul ul li a { width:136px;}
+h3 {font-size:14px;}
